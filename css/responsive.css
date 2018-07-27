@@ -4,10 +4,15 @@
   body {
     font-size: 120%;
   }
-  #wrapper {
-    width: 80%;
+  .wrapper {
+    width: 90%;
     background-color: thistle;
   }
+  #social {
+    position: absolute;
+    
+  }
+
   h1 {
     font-size: 2em;
   }
