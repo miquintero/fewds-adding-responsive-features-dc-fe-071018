@@ -10,9 +10,6 @@
   }
   #social {
     position: absolute;
-    
+    width: automatic;
   }
-
-  h1 {
-    font-size: 2em;
-  }
+}
