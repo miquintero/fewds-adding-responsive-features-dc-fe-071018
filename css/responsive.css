@@ -1,0 +1,13 @@
+/* ======= ======= ======= Desktop Down ======= ======= ======= */
+/* screens < 960px */
+@media only screen and (max-width: 1108px) {
+  body {
+    font-size: 120%;
+  }
+  #wrapper {
+    width: 80%;
+    background-color: thistle;
+  }
+  h1 {
+    font-size: 2em;
+  }
