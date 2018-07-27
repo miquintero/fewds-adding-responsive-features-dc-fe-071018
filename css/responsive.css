@@ -62,6 +62,7 @@
   .border-right {
       border-right: 0px dotted #ccc;
   }
-
-  - Remove the right border by setting `.border-right` border property to 0
-  - Set the `#details div` height to auto
+  #details div {
+    height: auto;
+  }
+}
